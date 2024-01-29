@@ -1,0 +1,9 @@
+
+  {
+    "area": "example-area",
+    "subarea": "example-sub-area",
+    "videoStreamUrl": "https://d1hucs30p3z5c2.cloudfront.net/Introduccion%20y%20Justificacion_Fabricio_Chavez.mp4",
+    "s3Bucket": "example-bucket-name",
+    "isFisheye": false,
+    "frameCaptureThreshold": 700
+  }
